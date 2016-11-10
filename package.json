@@ -1,0 +1,26 @@
+{
+  "name": "ganpai",
+  "description": "Brunch skeleton with backbone 1.0, bootstrap 3, coffeescript, stylus and jade",
+  "author": "Jeff Kingyens",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "./node_modules/.bin/brunch watch --server",
+    "test": "./node_modules/.bin/karma start karma.coffee"
+  },
+  "dependencies": {
+    "auto-reload-brunch": "1.6.5",
+    "bower": "~1.2.6",
+    "brunch": "1.7.6",
+    "clean-css-brunch": "1.6.0",
+    "coffee-script": "~1.6.3",
+    "coffee-script-brunch": "~1.7.2",
+    "css-brunch": "1.6.0",
+    "handlebars-brunch": "~1.7.2",
+    "jade-brunch": "~1.7.2",
+    "javascript-brunch": "1.6.0",
+    "mobile-detect": "^0.4.2",
+    "node-static": "^0.7.6",
+    "stylus-brunch": "~1.7.0",
+    "uglify-js-brunch": "1.7.2"
+  }
+}
